@@ -7,6 +7,8 @@ class ColorStream {
     Colors.amber,
     Colors.deepPurple,
     Colors.lightBlue,
+    Colors.teal,
+    Colors.pinkAccent,
     Colors.pink
   ];
 
