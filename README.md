@@ -11,7 +11,8 @@
 
 ## Soal 3
 Jelaskan fungsi keyword yield* pada kode tersebut! 
-Jawab: Fungsi keyword yeild* pada kode digunakan untuk menggabungkan atau "menyebarkan" elemen dari sebuah Stream ke dalam Stream yang sedang dibangun.
+Jawab: 
+- Fungsi keyword yeild* pada kode digunakan untuk menggabungkan atau "menyebarkan" elemen dari sebuah Stream ke dalam Stream yang sedang dibangun.
 
 ## Soal 4
 
